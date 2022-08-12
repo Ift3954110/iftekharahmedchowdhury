@@ -1,4 +1,30 @@
-## Welcome to GitHub Pages
+# Project Idea : Developing A Game Using Tools Such As Unity, Construct2 Or Cocos2d
+
+## About Me
+
+![Image](src "")
+- Name: Iftekhar Ahmed Chowdhury. 
+- Student Id: 3954110 
+- Student Mail: S3954110@Srtudent.Rmit.Edu.Au 
+- Nationality: Bangladeshi 
+- Culture: Muslim 
+- Language Spoken: English, Bangla
+- Interest- Sports , Playing Cards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Ift3954110/iftekharahmedchowdhury/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

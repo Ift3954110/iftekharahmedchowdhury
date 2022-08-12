@@ -2,7 +2,8 @@
 
 ## About Me
 
-![myphoto.jpeg](src)
+![MyPhoto](/myphoto.jpeg)
+
 - Name: Iftekhar Ahmed Chowdhury. 
 - Student Id: 3954110 
 - Student Mail: S3954110@Srtudent.Rmit.Edu.Au 
